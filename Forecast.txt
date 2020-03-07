@@ -1,0 +1,17 @@
+
+Question ?
+
+Data Collected at regular intervals there is time dependent on the data.
+
+Stastical Methods:
+
+Ignore time 
+Regression based models 
+Univariate models
+Averaging and smoothing models and ARIMA models
+External Regressors and Multivariate models
+
+Machinelearning 
+
+Ignore time - GBDT,SVM
+
